@@ -17,7 +17,7 @@ f
 ❌ ❕ ❌ ❕ ⭕
 sdf
 ## Representing Stateываwsdf
-Leo allows users to define composite data types with the `struct` keyword. dsfddfgdfg
+Leo allows users to define composite data types with the `struct` keyword. dsfddfgdfgd
 The game board is represented by a struct called `Board`, which contains three `Row`s.sdf
 An alternative representation would be to use an array, however, these are not yet supported in Leo.
 
